@@ -25,6 +25,9 @@ import requests as req
 from tkinter import messagebox
 from uuid import uuid4
 from pyperclip import copy
+import Sport
+
+os.startfile('MinimizeToTray.exe')
 
 #Создаём окно
 root = Tk()
